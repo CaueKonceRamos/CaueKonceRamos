@@ -1,47 +1,66 @@
-# 👨‍💻 Cauê Ramos
+<h1 align="center">👨‍💻 Cauê Ramos</h1>
 
-🎓 Estudante de Ciência da Computação  
+<p align="center">
+🎓 Estudante de Ciência da Computação <br>
 💡 Criador de MVPs | 🐍 Pythonista | 💻 Dev Web & Game Lover
+</p>
 
 ---
 
 ## 👋 Sobre mim
 
-Sou apaixonado por desenvolvimento de software, especialmente quando envolve criatividade, desafios e impacto.  
-Tenho como filosofia criar rápido, testar e aprender. Por isso, estou **constantemente desenvolvendo MVPs** 🚀.
+Sou apaixonado por tecnologia, inovação e criatividade.  
+Estou **constantemente desenvolvendo MVPs** para testar ideias, resolver problemas e aprender com cada linha de código.
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 🔥 **Ícaro** – Um sistema inovador de automação para escritórios jurídicos.
-- 📊 **Litycs** – Análise de dados educacionais para recomendar estágios personalizados.
-- 🥗 **FitDelícias** – Aplicativo de receitas saudáveis e práticas para o dia a dia.
+- 🔥 **Ícaro** – Automação jurídica inteligente.
+- 📊 **Litycs** – Recomendação de estágios com análise de dados.
+- 🥗 **FitDelícias** – Receitas saudáveis e práticas.
 
 ---
 
-## 🎮 Um toque de criatividade
+## 🎮 Pacman com fome de ideias
 
-    .-"      "-.
-   /            \
-  |              |    🟣   🟣   🟣   🟣
-   \            /       🍓 🍇 🍍 🍒 
-    '-.______.-'         K  O  N  C  E  
-      (•▿•)  <==  
-    [PACMAN]
+<p align="center">
+  <svg width="500" height="80">
+    <!-- Pacman -->
+    <circle cx="40" cy="40" r="30" fill="gold" />
+    <polygon points="40,40 70,20 70,60" fill="black" />
+    
+    <!-- Frutinhas "KONCE" -->
+    <text x="100" y="45" font-size="18" fill="deeppink">🍓 K</text>
+    <text x="150" y="45" font-size="18" fill="purple">🍇 O</text>
+    <text x="200" y="45" font-size="18" fill="orange">🍍 N</text>
+    <text x="250" y="45" font-size="18" fill="red">🍒 C</text>
+    <text x="300" y="45" font-size="18" fill="green">🥝 E</text>
 
+    <!-- Animation: Pacman moving -->
+    <animateTransform attributeName="transform"
+                      type="translate"
+                      from="0,0" to="260,0"
+                      dur="4s"
+                      repeatCount="indefinite"/>
+  </svg>
+</p>
 
-> 🍓 Cada frutinha representa algo que estou aprendendo, testando ou desenvolvendo.  
-> E o Pac-Man sou eu, devorando tudo com curiosidade! 😄
+<p align="center">
+  <i>O Pacman sou eu devorando ideias e aprendizados todos os dias 👾</i>
+</p>
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Fale comigo
 
 - 📧 **Email:** seuemail@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)  
 - 💻 [Portfólio](https://seu-portfolio.com)
 
 ---
 
-> _"Desenvolver é explorar. E eu exploro o mundo uma ideia de cada vez."_ 🚀
+<p align="center">
+  <strong><i>"Desenvolver é explorar. E eu exploro o mundo uma ideia de cada vez."</i></strong>
+</p>
+
