@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨‍💻 Cauê Ramos
 
-<!--
-**CaueKonceRamos/CaueKonceRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💡 Criador de MVPs | 🐍 Pythonista | 💻 Dev Web & Game Lover
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Sobre mim
+
+Sou apaixonado por desenvolvimento de software, especialmente quando envolve criatividade, desafios e impacto.  
+Tenho como filosofia criar rápido, testar e aprender. Por isso, estou **constantemente desenvolvendo MVPs** 🚀.
+
+---
+
+## 🚀 Projetos em destaque
+
+- 🔥 **Ícaro** – Um sistema inovador de automação para escritórios jurídicos.
+- 📊 **Litycs** – Análise de dados educacionais para recomendar estágios personalizados.
+- 🥗 **FitDelícias** – Aplicativo de receitas saudáveis e práticas para o dia a dia.
+
+---
+
+## 🎮 Um toque de criatividade
+
+    .-"      "-.
+   /            \
+  |              |    🟣   🟣   🟣   🟣
+   \            /       🍓 🍇 🍍 🍒 
+    '-.______.-'         K  O  N  C  E  
+      (•▿•)  <==  
+    [PACMAN]
+
+
+> 🍓 Cada frutinha representa algo que estou aprendendo, testando ou desenvolvendo.  
+> E o Pac-Man sou eu, devorando tudo com curiosidade! 😄
+
+---
+
+## 📫 Vamos conversar?
+
+- 📧 **Email:** seuemail@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 💻 [Portfólio](https://seu-portfolio.com)
+
+---
+
+> _"Desenvolver é explorar. E eu exploro o mundo uma ideia de cada vez."_ 🚀
