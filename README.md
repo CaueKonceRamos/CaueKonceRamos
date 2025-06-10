@@ -17,66 +17,39 @@ Estou **constantemente desenvolvendo MVPs** que testam limites e constroem exper
 
 ## 🚀 Projetos em destaque
 
-- 🔥 **Ícaro** – Automação inteligente para o setor jurídico.
-- 📊 **Litycs** – Plataforma que analisa dados para recomendar estágios personalizados.
+- 🔥 **Ícaro** – Plataforma que analisa dados para recomendar estágios personalizados..
+- 📊 **Litycs** – Plataforma para um produtor músical.
 - 🥗 **FitDelícias** – Receitas saudáveis com foco em praticidade e nutrição.
 
 ---
 
-## 🌌 Criatividade em movimento
+- 🎯 Em busca de me tornar um desenvolvedor full stack, focado em entregar soluções práticas e eficientes  
+- 📚 Estudando Python, Java e lógica de programação, aplicando meus conhecimentos em projetos reais  
+- 💻 Desenvolvendo MVPs para os meus projetos pessoais como Ícaro, Litycs e FitDelícias  
+- 💪 Comprometido com o equilíbrio entre estudos, trabalho e saúde, mantendo uma rotina disciplinada  
 
-<p align="center">
-  <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background stars -->
-    <rect width="100%" height="100%" fill="#0b0c10"/>
-    <circle cx="20" cy="20" r="2" fill="#ffffff"/>
-    <circle cx="60" cy="80" r="1.5" fill="#ffffff"/>
-    <circle cx="350" cy="40" r="1.8" fill="#ffffff"/>
-    <circle cx="300" cy="150" r="1.5" fill="#ffffff"/>
-    
-    <!-- Rocket -->
-    <g>
-      <rect x="190" y="140" width="20" height="40" fill="#f0f0f0" />
-      <polygon points="190,140 200,120 210,140" fill="#ff4136" />
-      <polygon points="190,180 200,190 210,180" fill="#ff851b">
-        <animate attributeName="points" values="
-          190,180 200,190 210,180;
-          190,180 200,200 210,180;
-          190,180 200,190 210,180
-        " dur="0.6s" repeatCount="indefinite"/>
-      </polygon>
-    </g>
+## 🛠️ Tecnologias que estou estudando
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-    <!-- Text rising with rocket -->
-    <text x="150" y="160" font-size="14" fill="#ffffff">
-      MVP
-      <animate attributeName="y" values="160;80" dur="4s" repeatCount="indefinite" />
-    </text>
-    <text x="140" y="180" font-size="14" fill="#ffffff">
-      KONCE
-      <animate attributeName="y" values="180;100" dur="4s" repeatCount="indefinite" />
-    </text>
-    <text x="160" y="200" font-size="14" fill="#ffffff">
-      IDEIAS
-      <animate attributeName="y" values="200;120" dur="4s" repeatCount="indefinite" />
-    </text>
-  </svg>
-</p>
+## 📊 GitHub Stats  
+![Cauê Ramos's GitHub stats](https://github-readme-stats.vercel.app/api?username=caue-ramos&show_icons=true&theme=dracula)  
 
-<p align="center">
-  <i>Um foguete subindo, carregando minhas ideias e MVPs rumo ao próximo nível 🚀</i>
+## 🐍 Snake comendo meus commits!  
+
+<p align="center">  
+  <picture>  
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">  
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">  
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">  
+  </picture>  
 </p>
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
-- 📧 **Email:** [contato.cauekonce@gmail.com](mailto:contato.cauekonce@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-valverde-3480a42a5/)
-
----
-
-<p align="center">
-  <strong><i>"Desenvolver é explorar. E eu exploro o mundo uma ideia de cada vez."</i></strong>
-</p>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.cauekonce@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cau%C3%AA-valverde-3480a42a5/)
