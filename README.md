@@ -47,21 +47,21 @@ Gosto de inovação, tecnologia, e de aprender fazendo — tudo isso com muito c
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=cauexramos&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=CaueKonceRamos&theme=dark&hide_border=false&include_all_commits=true"
         alt="GitHub Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauexramos&theme=dark&hide_border=false&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueKonceRamos&theme=dark&hide_border=false&layout=compact"
         alt="Top Langs"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=cauexramos&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=CaueKonceRamos&theme=dark&hide_border=false"
         alt="GitHub Streak"
       />
     </td>
@@ -75,7 +75,7 @@ Gosto de inovação, tecnologia, e de aprender fazendo — tudo isso com muito c
 <p align="center">
   <img
     width="800"
-    src="https://github-profile-trophy.vercel.app/?username=cauexramos&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    src="https://github-profile-trophy.vercel.app/?username=CaueKonceRamos&column=8&theme=darkhub&no-frame=true&no-bg=true"
   />
 </p>
 
@@ -87,7 +87,7 @@ Gosto de inovação, tecnologia, e de aprender fazendo — tudo isso com muito c
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/cauexramos/count.svg"
+    src="https://profile-counter.glitch.me/CaueKonceRamos/count.svg"
     alt="Visitantes"
   />
 </p>
