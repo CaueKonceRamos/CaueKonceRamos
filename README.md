@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Cauê Ramos</h1>
+<h1 align="center">👨‍💻 Cauê Koncê </h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação <br>
