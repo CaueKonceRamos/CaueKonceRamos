@@ -2,42 +2,40 @@
 
 <p align="center">
 🎓 Estudante de Ciência da Computação <br>
-💡 Criador de MVPs | 🐍 Pythonista | 💻 Dev Web & Game Lover
+💡 Viciado em MVPs | 🐍 Python e HTML na veia | 💻 Web, Jogos & Café
 </p>
 
 ---
 
 ## 👋 Sobre mim
 
-Sou um desenvolvedor apaixonado por transformar ideias em soluções reais.  
-Atualmente estudo **Ciência da Computação** e sou movido por criatividade, inovação e muito café ☕.  
-Estou **constantemente desenvolvendo MVPs** que testam limites e constroem experiências.
+Fala aí! Sou o Cauê, dev curioso que curte tirar ideia do papel e transformar em projeto real.  
+Tô na correria estudando **Ciência da Computação** e sempre buscando evoluir, testar coisa nova e colocar a mão na massa (com muito café, claro ☕).  
+Gosto de criar MVPs que saem do básico e entregam valor de verdade.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos Reais em destaque
 
-- 🔥 **Ícaro** – Plataforma que analisa dados para recomendar estágios personalizados..
-- 📊 **Litycs** – Plataforma para um produtor músical.
-- 🥗 **FitDelícias** – Receitas saudáveis com foco em praticidade e nutrição.
+- 🔥 **Ícaro** – Plataforma que recomenda estágios sob medida com base nos dados dos alunos.  
+- 📊 **Litycs** – Dashboard e ferramentas para um produtor musical organizar tudo.  
+- 🥗 **FitDelícias** – Site de receitas saudáveis, prático e direto pro foco.
 
 ---
 
-- 🎯 Em busca de me tornar um desenvolvedor full stack, focado em entregar soluções práticas e eficientes  
-- 📚 Estudando Python, Java e lógica de programação, aplicando meus conhecimentos em projetos reais  
-- 💻 Desenvolvendo MVPs para os meus projetos pessoais como Ícaro, Litycs e FitDelícias  
-- 💪 Comprometido com o equilíbrio entre estudos, trabalho e saúde, mantendo uma rotina disciplinada  
+- 🎯 Quero trampar com pesquisa, inovação e desenvolvimento.  
+- 📚 Estudando Html, CSS, Python, Java e lógica, sempre aplicando em projetos reais.  
+- 💻 Tô sempre bolando MVP novo pra testar ideia e aprender mais.  
+- 💪 Equilíbrio é a chave: estudo, trampo e academia fazem parte da rotina.
 
-## 🛠️ Tecnologias que estou estudando
+## 🛠️ Tecnologias que tô estudando
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 GitHub Stats  
-![Cauê Ramos's GitHub stats](https://github-readme-stats.vercel.app/api?username=caue-ramos&show_icons=true&theme=dracula)  
 
-## 🐍 Snake comendo meus commits!  
+## 🐍 DROGA ESTÃO COMENDO OS MEUS COMMITS!  
 
 <p align="center">  
   <picture>  
